@@ -1,3 +1,9 @@
+## [14.0.7](https://github.com/appium/appium-android-driver/compare/v14.0.6...v14.0.7) (2026-09-01)
+
+### Miscellaneous Chores
+
+* bump support & other deps ([#1095](https://github.com/appium/appium-android-driver/issues/1095)) ([4bc8b82](https://github.com/appium/appium-android-driver/commit/4bc8b827271414e67a0ac8e125f8c9e963278366))
+
 ## [14.0.6](https://github.com/appium/appium-android-driver/compare/v14.0.5...v14.0.6) (2026-08-08)
 
 ### Bug Fixes
